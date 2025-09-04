@@ -1,4 +1,4 @@
-# **Credit Card Performace Analysis:**
+# **Credit Card Performance Analysis:**
 
 ## Data Journey: From Raw CSV to Insightful Power BI Dashboard
 This project showcases a comprehensive data analysis workflow, demonstrating the ability to transform raw data into actionable business intelligence. 
